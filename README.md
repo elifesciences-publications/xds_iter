@@ -1,11 +1,11 @@
 xds\_iter.py
 ============
 
-##Author:
+# #Author:
 
 Daniel Keedy
 
-##Summary:
+## Summary:
 
 Starts from a series of diffraction images and processes with XDS, iterating
 the final scaling step CORRECT step by adjusting high-resolution limit each time
@@ -15,7 +15,7 @@ in the highest-resolution bin are met.
 For reference, CORRECT for a ~2.0 A PTP1B dataset with 150,000 unique reflections 
 takes ~23 s.
 
-##Example usage:
+## Example usage:
 
 ```
 python xds_iter.py --images "/path/to/images/mydata_1_00???.cbf" 
@@ -24,9 +24,9 @@ python xds_iter.py --images "/path/to/images/mydata_1_00???.cbf"
 (Run without any arguments to see all options)
 ```
 
-##Conditions to run:
+## Conditions to run:
 
-###Software requirements:
+### Software requirements:
 
 ```
 * Python
@@ -35,5 +35,5 @@ python xds_iter.py --images "/path/to/images/mydata_1_00???.cbf"
 * Diffraction images with a consistent naming convention
 ```
 
-###Additional requirements:
+### Additional requirements:
 
