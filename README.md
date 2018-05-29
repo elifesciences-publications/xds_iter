@@ -1,7 +1,7 @@
 xds\_iter.py
 ============
 
-# #Author:
+## Author:
 
 Daniel Keedy
 
