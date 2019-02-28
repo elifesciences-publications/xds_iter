@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Keedy et al., "An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering". eLife, 2018. http://dx.doi.org/10.7554/eLife.36307
+
+
 xds\_iter.py
 ============
 
